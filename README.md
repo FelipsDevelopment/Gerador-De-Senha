@@ -1,6 +1,6 @@
 # Gerador De Senha
 
-  O objetivo desta pequena aplicação é mostrar como um gerador de senhas randomico pode ser inserido em um formulário de cadastro para facilitar a escolha de uma senha segura e aleatória com 10 caracteres misturando letras minúsculas, maiúsculas, números e símbolos. 
+  O objetivo desta pequena aplicação é mostrar como um gerador de senhas randomico pode ser inserido em um formulário de cadastro para facilitar a escolha de uma senha segura e aleatória com 12 caracteres misturando letras minúsculas, maiúsculas, números e símbolos. 
 
   De primeira vista, o formulário mostra para o usuário como sugestão, uma forma de gerar uma senha randomica.
 
