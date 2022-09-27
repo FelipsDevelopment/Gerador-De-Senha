@@ -4,8 +4,9 @@
 
   De primeira vista, o formulário mostra para o usuário como sugestão, uma forma de gerar uma senha randomica.
 
-![Css finalizado](https://user-images.githubusercontent.com/26336767/192402688-28424798-a20e-4ec3-84a6-ba8227353bb5.png)
+![Css finalizado](https://user-images.githubusercontent.com/26336767/192403914-e8cceeb2-9085-4c99-896f-8a729a68eec7.png)
 
   Após o usuário apertar em "Clique aqui", a aplicação automáticamente gera uma senha aleatória para o usuário. Repetindo o processo o mesmo gera uma nova senha a cada clique.
 
-![Css finalizado2](https://user-images.githubusercontent.com/26336767/192402922-71e05e63-0b93-44ad-8e71-17777d8c08ae.png)
+![Css finalizado2](https://user-images.githubusercontent.com/26336767/192403939-55cd1a5c-1ade-487a-b9ff-02493f083d48.png)
+
